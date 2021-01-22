@@ -1,2 +1,6 @@
 # Math_examples_app
-android app. math trainer
+My first  android app. math trainer. 
+
+Google Play - https://play.google.com/store/apps/details?id=com.HCSi.Simplemathtests
+
+
